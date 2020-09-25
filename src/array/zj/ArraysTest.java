@@ -5,12 +5,13 @@ public class ArraysTest implements Arrays{
 	@Override
 	public void flip(int[] arr) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("呵呵");
 	}
 
 	@Override
 	public void sort(int[] arr) {
 		// TODO Auto-generated method stub
+
 		
 	}
 
